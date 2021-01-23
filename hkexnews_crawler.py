@@ -8,7 +8,7 @@ Original file is located at
 
 ### hkexnews crawler
 
-- Date : 2021-01-20
+- Date : 2021-01-23
 - Author : Hyewon Jung
 """
 
